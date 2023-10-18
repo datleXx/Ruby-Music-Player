@@ -1,0 +1,33 @@
+3
+MTPmtp
+Son Tung MTP
+img/mtp.jpg
+4
+An Nut Nho Tha Giac Mo
+songs/an_nut_nho_tha_giac_mo.mp3
+Con Mua Ngang Qua
+songs/con_mua_ngang_qua.mp3
+Nang Am Xa Dan
+songs/nang_am_xa_dan.mp3
+Em Cua Ngay Hom Qua
+songs/em_cua_ngay_hom_qua.mp3
+RAPbuoi
+Rapper
+img/cong.png
+3
+Co Em
+songs/co_em.mp3
+Xich Them Chut
+songs/xich_them_chut.mp3
+Em Iu 
+songs/em_iu.mp3
+RAPcac
+Dat Le
+img/dung.png
+3 
+Suy
+songs/suy.mp3
+Ocean 
+songs/ocean.mp3
+Chim Sau
+songs/chim_sau.mp3
